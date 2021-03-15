@@ -132,8 +132,10 @@ body {
     justify-content: space-between;
 }
 
-.sponsor {
-    flex-basis: 15%;
+.sponsor img{
+    display: block;
+    flex: 1 1 33%;
+    margin: 0 auto;
 }
 
 .sponsor:last-child {
